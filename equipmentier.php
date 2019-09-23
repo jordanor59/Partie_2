@@ -6,7 +6,7 @@
 
 		label  {width:200px;float:left;	}
 
-		body {background: rgb(30%  ); }
+	
 
 		fieldset {#1F497D; }
 
