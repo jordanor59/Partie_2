@@ -131,6 +131,8 @@
 				<input id="Adresse mail :" name="Adresse mail :" type="text" placeholder="exemple@mail.com" /><br /><br />
 				<label for="Mot de passe :">Mot de passe :</label>
 				<input id="Mot de passe :" name="Mot de passe :" type="password"  placeholder="Mot de Passe" /><br /><br />
+				<label for="Telephone:">Telephone :</label>
+				<input id="Telephone :" name="Telephone :" type="text"  placeholder="Telephone" /><br /><br />
 				<button onclick="alert(this.value)">Connexion</button>
 			</fieldset><br />
 	</body>
